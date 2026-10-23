@@ -42,7 +42,7 @@ La fórmula utilizada deberá corresponder realmente a la naturaleza del recurso
 
 Las referencias deberán conservar el nombre de la marca sin alteraciones, evitar modificaciones que puedan generar confusión y, cuando sea apropiado, dirigir al sitio web oficial:
 
-https://rutamerito.github.io/
+https://anhetech.github.io/
 
 La utilización de logotipos, elementos gráficos, capturas de pantalla u otros recursos de identidad visual se encuentra sujeta a las condiciones establecidas en esta política y no se entiende autorizada por el simple hecho de realizar una referencia textual.
 

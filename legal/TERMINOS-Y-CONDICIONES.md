@@ -6,7 +6,7 @@
 
 Estos términos establecen una estructura general para el uso de los sitios, repositorios, herramientas, contenidos y experiencias que RutaMérito™ ponga a disposición pública.
 
-La entidad responsable de los recursos es RutaMérito™. Los datos oficiales de identificación se publicarán en fuentes oficiales cuando estén disponibles. Los canales de contacto son los que se indican en el [sitio web oficial](https://rutamerito.github.io/) y en la sección "Disposiciones finales" de este documento.
+La entidad responsable de los recursos es RutaMérito™. Los datos oficiales de identificación se publicarán en fuentes oficiales cuando estén disponibles. Los canales de contacto son los que se indican en el [sitio web oficial](https://anhetech.github.io/) y en la sección "Disposiciones finales" de este documento.
 
 ## 2. Aceptación
 
@@ -42,6 +42,6 @@ Los presentes términos se interpretarán de conformidad con la legislación apl
 
 Los recursos se proporcionan "tal cual" y "según disponibilidad", sin garantías adicionales a las expresamente indicadas en este documento o en la documentación de cada recurso. En la medida permitida por la legislación aplicable, RutaMérito™ no será responsable por daños derivados del uso que las personas hagan de los recursos.
 
-Las consultas o reclamaciones podrán presentarse a través de los canales oficiales de contacto: WhatsApp 317 265 6464 · Facebook [RutaMerito.Colombia](https://www.facebook.com/RutaMerito.Colombia/) · [https://rutamerito.github.io/](https://rutamerito.github.io/).
+Las consultas o reclamaciones podrán presentarse a través de los canales oficiales de contacto: WhatsApp 317 265 6464 · Facebook [RutaMerito.Colombia](https://www.facebook.com/RutaMerito.Colombia/) · [https://anhetech.github.io/](https://anhetech.github.io/).
 
 Este documento es una estructura informativa y no sustituye asesoría jurídica.

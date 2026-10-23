@@ -6,7 +6,7 @@
 
 Esta política establece la forma en que RutaMérito™, como responsable del tratamiento, gestiona la información que pueda llegar a tratarse en los recursos, sitios, herramientas y experiencias que publica.
 
-La identidad del responsable del tratamiento es RutaMérito™. Los canales oficiales de contacto son los indicados en el [sitio web oficial](https://rutamerito.github.io/) y en la sección "Cambios y contacto" de esta política. La legislación aplicable será la que corresponda según la naturaleza de cada tratamiento y la jurisdicción competente.
+La identidad del responsable del tratamiento es RutaMérito™. Los canales oficiales de contacto son los indicados en el [sitio web oficial](https://anhetech.github.io/) y en la sección "Cambios y contacto" de esta política. La legislación aplicable será la que corresponda según la naturaleza de cada tratamiento y la jurisdicción competente.
 
 ## 2. Alcance
 
@@ -38,6 +38,6 @@ Las solicitudes podrán presentarse a través de los canales oficiales de contac
 
 Las actualizaciones de esta política se publicarán en esta misma página con su fecha de vigencia.
 
-Los canales oficiales de contacto son: WhatsApp 317 265 6464 · Facebook [RutaMerito.Colombia](https://www.facebook.com/RutaMerito.Colombia/) · [https://rutamerito.github.io/](https://rutamerito.github.io/).
+Los canales oficiales de contacto son: WhatsApp 317 265 6464 · Facebook [RutaMerito.Colombia](https://www.facebook.com/RutaMerito.Colombia/) · [https://anhetech.github.io/](https://anhetech.github.io/).
 
 Este documento es una estructura informativa y no sustituye asesoría jurídica.

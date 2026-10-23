@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://rutamerito.github.io/sitemap.xml
+Sitemap: https://anhetech.github.io/sitemap.xml
